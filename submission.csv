@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0008425,1,0.9033,Senior NLP Engineer | 7.8yr | Semantic:100 Career:94 Tech:71 Signals:76 | resp_rate:0.66 open_to_work:True
+CAND_0071974,2,0.8962,Senior AI Engineer | 7.8yr | Semantic:96 Career:96 Tech:72 Signals:77 | resp_rate:0.76 open_to_work:True
+CAND_0002025,3,0.8879,Senior AI Engineer | 5.9yr | Semantic:92 Career:93 Tech:75 Signals:85 | resp_rate:0.80 open_to_work:True
+CAND_0046064,4,0.8854,Senior NLP Engineer | 8.9yr | Semantic:96 Career:98 Tech:62 Signals:77 | resp_rate:0.78 open_to_work:True
+CAND_0018499,5,0.8768,Senior Machine Learning Engineer | 7.2yr | Semantic:85 Career:98 Tech:81 Signals:82 | resp_rate:0.61 open_to_work:True
+CAND_0077337,6,0.8724,Staff Machine Learning Engineer | 7.0yr | Semantic:84 Career:98 Tech:75 Signals:87 | resp_rate:0.95 open_to_work:True
+CAND_0011687,7,0.8719,Senior NLP Engineer | 7.8yr | Semantic:94 Career:93 Tech:61 Signals:82 | resp_rate:0.89 open_to_work:True
+CAND_0088025,8,0.8594,Staff Machine Learning Engineer | 8.6yr | Semantic:90 Career:95 Tech:57 Signals:87 | resp_rate:0.83 open_to_work:True
+CAND_0039754,9,0.8574,Senior Applied Scientist | 16.2yr | Semantic:97 Career:81 Tech:65 Signals:85 | resp_rate:0.81 open_to_work:True
+CAND_0080766,10,0.8555,Staff Machine Learning Engineer | 8.8yr | Semantic:95 Career:100 Tech:54 Signals:63 | resp_rate:0.66 open_to_work:False
+CAND_0086022,11,0.8449,Senior Applied Scientist | 5.3yr | Semantic:90 Career:89 Tech:73 Signals:73 | resp_rate:0.55 open_to_work:True
+CAND_0081846,12,0.8382,Lead AI Engineer | 6.7yr | Semantic:89 Career:94 Tech:57 Signals:78 | resp_rate:0.73 open_to_work:True
+CAND_0046525,13,0.838,Senior Machine Learning Engineer | 6.1yr | Semantic:84 Career:92 Tech:65 Signals:86 | resp_rate:0.88 open_to_work:True
+CAND_0055905,14,0.8348,Senior Machine Learning Engineer | 8.1yr | Semantic:89 Career:90 Tech:51 Signals:88 | resp_rate:0.87 open_to_work:True
+CAND_0068351,15,0.8343,Lead AI Engineer | 6.4yr | Semantic:91 Career:97 Tech:54 Signals:65 | resp_rate:0.86 open_to_work:False
+CAND_0006567,16,0.8295,Senior AI Engineer | 7.9yr | Semantic:84 Career:92 Tech:64 Signals:81 | resp_rate:0.79 open_to_work:True
+CAND_0005538,17,0.8252,Senior AI Engineer | 5.9yr | Semantic:79 Career:96 Tech:63 Signals:85 | resp_rate:0.81 open_to_work:True
+CAND_0007411,18,0.8219,Senior Machine Learning Engineer | 8.0yr | Semantic:95 Career:93 Tech:74 Signals:33 | resp_rate:0.12 open_to_work:False
+CAND_0028793,19,0.8157,Search Engineer | 7.2yr | Semantic:78 Career:90 Tech:80 Signals:76 | resp_rate:0.57 open_to_work:True
+CAND_0033861,20,0.8126,Senior NLP Engineer | 8.0yr | Semantic:95 Career:98 Tech:52 Signals:40 | resp_rate:0.16 open_to_work:False
+CAND_0044222,21,0.8027,AI Engineer | 7.7yr | Semantic:80 Career:90 Tech:63 Signals:78 | resp_rate:0.60 open_to_work:True
+CAND_0037980,22,0.7979,Senior Applied Scientist | 9.0yr | Semantic:78 Career:93 Tech:67 Signals:71 | resp_rate:0.63 open_to_work:True
+CAND_0061257,23,0.7875,Staff Machine Learning Engineer | 8.0yr | Semantic:80 Career:88 Tech:57 Signals:81 | resp_rate:0.87 open_to_work:True
+CAND_0032515,24,0.7816,Machine Learning Engineer | 5.1yr | Semantic:75 Career:88 Tech:76 Signals:70 | resp_rate:0.54 open_to_work:False
+CAND_0005260,25,0.7813,Senior NLP Engineer | 5.2yr | Semantic:80 Career:91 Tech:54 Signals:72 | resp_rate:0.86 open_to_work:False
+CAND_0060054,26,0.7787,AI Engineer | 6.4yr | Semantic:78 Career:95 Tech:55 Signals:65 | resp_rate:0.86 open_to_work:False
+CAND_0093547,27,0.7745,Senior Machine Learning Engineer | 2.9yr | Semantic:86 Career:77 Tech:67 Signals:66 | resp_rate:0.75 open_to_work:False
+CAND_0006418,28,0.7712,Machine Learning Engineer | 5.7yr | Semantic:76 Career:89 Tech:59 Signals:74 | resp_rate:0.92 open_to_work:True
+CAND_0010257,29,0.7699,Senior Data Scientist | 6.5yr | Semantic:74 Career:90 Tech:53 Signals:83 | resp_rate:0.72 open_to_work:True
+CAND_0039838,30,0.7685,Recommendation Systems Engineer | 4.9yr | Semantic:80 Career:82 Tech:59 Signals:76 | resp_rate:0.80 open_to_work:True
+CAND_0030031,31,0.7663,AI Engineer | 5.7yr | Semantic:71 Career:95 Tech:54 Signals:77 | resp_rate:0.94 open_to_work:False
+CAND_0039383,32,0.7636,Applied ML Engineer | 7.1yr | Semantic:66 Career:93 Tech:75 Signals:72 | resp_rate:0.61 open_to_work:True
+CAND_0030468,33,0.7604,Senior Applied Scientist | 5.4yr | Semantic:70 Career:88 Tech:64 Signals:80 | resp_rate:0.78 open_to_work:True
+CAND_0041610,34,0.7601,Recommendation Systems Engineer | 6.7yr | Semantic:62 Career:97 Tech:66 Signals:81 | resp_rate:0.52 open_to_work:True
+CAND_0061655,35,0.7567,Machine Learning Engineer | 4.6yr | Semantic:72 Career:85 Tech:67 Signals:76 | resp_rate:0.88 open_to_work:False
+CAND_0099806,36,0.7561,AI Engineer | 4.6yr | Semantic:67 Career:88 Tech:73 Signals:76 | resp_rate:0.76 open_to_work:True
+CAND_0064326,37,0.7539,Search Engineer | 7.6yr | Semantic:63 Career:97 Tech:53 Signals:87 | resp_rate:0.94 open_to_work:True
+CAND_0096142,38,0.7536,Applied ML Engineer | 5.0yr | Semantic:65 Career:88 Tech:70 Signals:84 | resp_rate:0.84 open_to_work:True
+CAND_0017960,39,0.753,Recommendation Systems Engineer | 7.7yr | Semantic:59 Career:96 Tech:81 Signals:74 | resp_rate:0.72 open_to_work:True
+CAND_0092278,40,0.753,Senior NLP Engineer | 6.8yr | Semantic:80 Career:95 Tech:66 Signals:31 | resp_rate:0.07 open_to_work:False
+CAND_0042029,41,0.7523,Senior Data Scientist | 6.5yr | Semantic:71 Career:91 Tech:61 Signals:70 | resp_rate:0.67 open_to_work:False
+CAND_0050876,42,0.751,Applied ML Engineer | 6.0yr | Semantic:62 Career:91 Tech:75 Signals:79 | resp_rate:0.67 open_to_work:True
+CAND_0020708,43,0.7501,Search Engineer | 4.2yr | Semantic:72 Career:81 Tech:73 Signals:72 | resp_rate:0.84 open_to_work:True
+CAND_0079387,44,0.7488,AI Engineer | 6.9yr | Semantic:62 Career:96 Tech:62 Signals:79 | resp_rate:0.81 open_to_work:True
+CAND_0013613,45,0.7484,Machine Learning Engineer | 4.7yr | Semantic:78 Career:83 Tech:56 Signals:68 | resp_rate:0.73 open_to_work:True
+CAND_0093912,46,0.7484,Senior Data Scientist | 5.3yr | Semantic:66 Career:93 Tech:60 Signals:77 | resp_rate:0.66 open_to_work:True
+CAND_0075574,47,0.7476,Machine Learning Engineer | 5.7yr | Semantic:65 Career:94 Tech:59 Signals:78 | resp_rate:0.58 open_to_work:True
+CAND_0052682,48,0.7469,NLP Engineer | 6.6yr | Semantic:66 Career:92 Tech:62 Signals:78 | resp_rate:0.88 open_to_work:True
+CAND_0011162,49,0.7466,Recommendation Systems Engineer | 5.8yr | Semantic:70 Career:91 Tech:54 Signals:76 | resp_rate:0.75 open_to_work:True
+CAND_0053591,50,0.7427,AI Engineer | 5.3yr | Semantic:64 Career:86 Tech:67 Signals:84 | resp_rate:0.81 open_to_work:True
+CAND_0094759,51,0.7421,Lead AI Engineer | 8.6yr | Semantic:79 Career:94 Tech:54 Signals:40 | resp_rate:0.11 open_to_work:False
+CAND_0050454,52,0.7419,AI Engineer | 6.8yr | Semantic:66 Career:93 Tech:60 Signals:73 | resp_rate:0.77 open_to_work:True
+CAND_0078002,53,0.7414,Machine Learning Engineer | 6.3yr | Semantic:63 Career:95 Tech:58 Signals:77 | resp_rate:0.86 open_to_work:True
+CAND_0065195,54,0.7411,Search Engineer | 5.1yr | Semantic:62 Career:89 Tech:65 Signals:85 | resp_rate:0.80 open_to_work:True
+CAND_0053695,55,0.7396,Recommendation Systems Engineer | 5.8yr | Semantic:67 Career:95 Tech:58 Signals:67 | resp_rate:0.60 open_to_work:True
+CAND_0083879,56,0.739,Machine Learning Engineer | 7.1yr | Semantic:62 Career:96 Tech:60 Signals:74 | resp_rate:0.47 open_to_work:True
+CAND_0066376,57,0.7385,Applied ML Engineer | 5.7yr | Semantic:74 Career:87 Tech:51 Signals:70 | resp_rate:0.51 open_to_work:True
+CAND_0005649,58,0.738,Senior Data Scientist | 7.4yr | Semantic:65 Career:94 Tech:55 Signals:76 | resp_rate:0.57 open_to_work:True
+CAND_0093193,59,0.7364,Senior Machine Learning Engineer | 7.9yr | Semantic:68 Career:91 Tech:49 Signals:77 | resp_rate:0.61 open_to_work:True
+CAND_0007009,60,0.7363,Recommendation Systems Engineer | 7.9yr | Semantic:64 Career:95 Tech:65 Signals:65 | resp_rate:0.62 open_to_work:True
+CAND_0010685,61,0.7331,NLP Engineer | 6.7yr | Semantic:68 Career:97 Tech:41 Signals:73 | resp_rate:0.83 open_to_work:True
+CAND_0077285,62,0.7308,Recommendation Systems Engineer | 5.5yr | Semantic:60 Career:93 Tech:68 Signals:72 | resp_rate:0.56 open_to_work:True
+CAND_0019480,63,0.73,NLP Engineer | 2.8yr | Semantic:69 Career:78 Tech:60 Signals:87 | resp_rate:0.87 open_to_work:True
+CAND_0044883,64,0.729,AI Engineer | 6.3yr | Semantic:66 Career:90 Tech:63 Signals:68 | resp_rate:0.84 open_to_work:False
+CAND_0091909,65,0.7284,Machine Learning Engineer | 6.9yr | Semantic:64 Career:91 Tech:68 Signals:66 | resp_rate:0.65 open_to_work:True
+CAND_0030953,66,0.7279,Search Engineer | 7.8yr | Semantic:66 Career:98 Tech:53 Signals:60 | resp_rate:0.63 open_to_work:False
+CAND_0068811,67,0.7279,Applied ML Engineer | 8.0yr | Semantic:66 Career:97 Tech:43 Signals:71 | resp_rate:0.42 open_to_work:True
+CAND_0041669,68,0.7278,Recommendation Systems Engineer | 8.0yr | Semantic:59 Career:93 Tech:64 Signals:78 | resp_rate:0.77 open_to_work:True
+CAND_0020877,69,0.7272,Applied ML Engineer | 5.1yr | Semantic:69 Career:89 Tech:61 Signals:63 | resp_rate:0.66 open_to_work:False
+CAND_0024466,70,0.7267,Search Engineer | 5.2yr | Semantic:71 Career:82 Tech:59 Signals:72 | resp_rate:0.47 open_to_work:True
+CAND_0009691,71,0.7251,Applied ML Engineer | 6.2yr | Semantic:59 Career:90 Tech:71 Signals:76 | resp_rate:0.64 open_to_work:True
+CAND_0041611,72,0.7246,Staff Machine Learning Engineer | 6.4yr | Semantic:82 Career:91 Tech:53 Signals:29 | resp_rate:0.07 open_to_work:False
+CAND_0000031,73,0.7244,Recommendation Systems Engineer | 6.0yr | Semantic:59 Career:98 Tech:52 Signals:78 | resp_rate:0.91 open_to_work:True
+CAND_0055992,74,0.7238,AI Engineer | 16.9yr | Semantic:71 Career:78 Tech:60 Signals:75 | resp_rate:0.72 open_to_work:True
+CAND_0057563,75,0.7218,NLP Engineer | 6.8yr | Semantic:65 Career:91 Tech:55 Signals:70 | resp_rate:0.83 open_to_work:False
+CAND_0081686,76,0.7212,Search Engineer | 6.0yr | Semantic:64 Career:87 Tech:65 Signals:72 | resp_rate:0.91 open_to_work:False
+CAND_0051292,77,0.721,Applied ML Engineer | 5.2yr | Semantic:62 Career:94 Tech:56 Signals:72 | resp_rate:0.52 open_to_work:True
+CAND_0062247,78,0.721,AI Engineer | 7.3yr | Semantic:63 Career:90 Tech:56 Signals:78 | resp_rate:0.78 open_to_work:True
+CAND_0066999,79,0.721,Recommendation Systems Engineer | 5.9yr | Semantic:61 Career:90 Tech:69 Signals:69 | resp_rate:0.63 open_to_work:True
+CAND_0060072,80,0.7202,Staff Machine Learning Engineer | 5.7yr | Semantic:77 Career:86 Tech:65 Signals:38 | resp_rate:0.10 open_to_work:False
+CAND_0061265,81,0.7199,Recommendation Systems Engineer | 6.6yr | Semantic:62 Career:88 Tech:66 Signals:72 | resp_rate:0.94 open_to_work:True
+CAND_0018549,82,0.7193,Recommendation Systems Engineer | 6.8yr | Semantic:61 Career:90 Tech:59 Signals:78 | resp_rate:0.73 open_to_work:True
+CAND_0006557,83,0.719,NLP Engineer | 7.9yr | Semantic:72 Career:86 Tech:46 Signals:70 | resp_rate:0.63 open_to_work:True
+CAND_0096172,84,0.719,NLP Engineer | 5.2yr | Semantic:62 Career:89 Tech:75 Signals:62 | resp_rate:0.47 open_to_work:False
+CAND_0010149,85,0.7183,ML Engineer | 6.9yr | Semantic:56 Career:93 Tech:59 Signals:85 | resp_rate:0.82 open_to_work:True
+CAND_0064270,86,0.7182,Applied ML Engineer | 4.2yr | Semantic:77 Career:84 Tech:43 Signals:63 | resp_rate:0.82 open_to_work:False
+CAND_0075249,87,0.7165,Applied ML Engineer | 6.2yr | Semantic:63 Career:89 Tech:62 Signals:69 | resp_rate:0.82 open_to_work:True
+CAND_0037944,88,0.716,Senior Data Scientist | 4.9yr | Semantic:64 Career:87 Tech:68 Signals:63 | resp_rate:0.42 open_to_work:True
+CAND_0095528,89,0.7157,Senior Data Scientist | 5.3yr | Semantic:66 Career:88 Tech:52 Signals:73 | resp_rate:0.55 open_to_work:True
+CAND_0070398,90,0.7137,Machine Learning Engineer | 7.2yr | Semantic:62 Career:90 Tech:58 Signals:74 | resp_rate:0.60 open_to_work:True
+CAND_0076163,91,0.7124,NLP Engineer | 6.9yr | Semantic:55 Career:88 Tech:74 Signals:79 | resp_rate:0.84 open_to_work:True
+CAND_0081852,92,0.7121,Senior Data Scientist | 5.9yr | Semantic:58 Career:88 Tech:70 Signals:75 | resp_rate:0.44 open_to_work:True
+CAND_0009024,93,0.7107,Search Engineer | 5.2yr | Semantic:63 Career:92 Tech:55 Signals:66 | resp_rate:0.46 open_to_work:True
+CAND_0051615,94,0.7094,Search Engineer | 4.6yr | Semantic:63 Career:82 Tech:66 Signals:75 | resp_rate:0.88 open_to_work:True
+CAND_0052328,95,0.709,Recommendation Systems Engineer | 6.5yr | Semantic:56 Career:91 Tech:70 Signals:70 | resp_rate:0.79 open_to_work:True
+CAND_0061339,96,0.7079,Search Engineer | 4.2yr | Semantic:61 Career:88 Tech:61 Signals:73 | resp_rate:0.90 open_to_work:True
+CAND_0040117,97,0.7062,Recommendation Systems Engineer | 6.5yr | Semantic:55 Career:92 Tech:69 Signals:70 | resp_rate:0.66 open_to_work:True
+CAND_0037000,98,0.706,Search Engineer | 2.7yr | Semantic:73 Career:77 Tech:54 Signals:66 | resp_rate:0.61 open_to_work:False
+CAND_0095619,99,0.7055,NLP Engineer | 15.6yr | Semantic:62 Career:78 Tech:65 Signals:84 | resp_rate:0.90 open_to_work:True
+CAND_0081053,100,0.7051,NLP Engineer | 5.4yr | Semantic:58 Career:87 Tech:69 Signals:74 | resp_rate:0.83 open_to_work:True
