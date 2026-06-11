@@ -4,23 +4,21 @@
 team_name: "your-team-name-here"       # e.g. "team_nlp_ninjas"
 
 primary_contact:
-  name: "Your Full Name"
-  email: "your@email.com"
-  phone: "+91-XXXXXXXXXX"
+  name: "Satya Tejaswi Tummala"
+  email: "satyatejaswi2006@gmail.com"
 
 team_members:
-  - name: "Your Full Name"
-    email: "your@email.com"
-    role: "ML Engineer"
+  - name: "Udaya Satya Lakshmi Veggireddy"
+    role: "B.Tech Student"
 
 # ============================================================================
 # Code and reproducibility
 # ============================================================================
-github_repo: "https://github.com/YOUR_USERNAME/YOUR_REPO"
+github_repo: "https://github.com/satyatejaswi123/intelligent-candidate-discovery"
 # Upload your code (rank_candidates.py, app.py, job_description.txt, requirements.txt)
 # and paste the URL above.
 
-sandbox_link: "https://YOUR_STREAMLIT_APP_URL"
+sandbox_link: "https://intelligent-candidate-discovery.streamlit.app"
 # Deploy app.py to Streamlit Cloud (free at share.streamlit.io) and paste URL above.
 
 reproduce_command: "python rank_candidates.py --jd job_description.txt --candidates candidates.jsonl --out submission.csv"
